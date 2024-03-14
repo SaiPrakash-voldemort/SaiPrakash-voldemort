@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sai Prakash Sunkari</h1>
 <h3 align="center">👋 Hey there! I'm Sai Prakash Sunkari, a versatile developer skilled in HTML, CSS, JavaScript, ReactJS Redux, Tailwind CSS, Node.js, Express.js, MongoDB, SQL, Android, C++, and Java. I'm passionate about crafting engaging web and mobile experiences. Let's build something awesome together! 🚀</h3>
 
- <img  align ="right" src="https://media1.tenor.com/m/6TdEhZ0g3WQAAAAd/dog-doggo.gif" height="491" width="481" /> 
+ <img  align ="right" src="https://media1.tenor.com/m/6TdEhZ0g3WQAAAAd/dog-doggo.gif" height="300" width="300" /> 
   - 💬 Ask me about **MERN ,Android**
 
 - 📫 How to reach me **saiprakashsai10@gmail.com**
