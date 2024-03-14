@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sai Prakash Sunkari</h1>
-<h3 align="center">👋 Hey there! I'm Sai Prakash Sunkari, a versatile developer skilled in HTML, CSS, JavaScript, ReactJS, Redux, Tailwind CSS, Node.js, Express.js, MongoDB, SQL, Android, C++, and Java. I'm passionate about crafting engaging web and mobile experiences. Let's build something awesome together! 🚀</h3>
+<h3 align="center">👋 Hey there! I'm Sai Prakash Sunkari, a versatile developer skilled in HTML, CSS, JavaScript, ReactJS Redux, Tailwind CSS, Node.js, Express.js, MongoDB, SQL, Android, C++, and Java. I'm passionate about crafting engaging web and mobile experiences. Let's build something awesome together! 🚀</h3>
 
-<center>
+ <img  align ="right" src="(https://media1.tenor.com/m/6TdEhZ0g3WQAAAAC/dog-doggo.gif)"/> 
   - 💬 Ask me about **MERN ,Android**
 
 - 📫 How to reach me **saiprakashsai10@gmail.com**
 
 - ⚡ Fun fact **Iam a detective**
 
- <img src="[https://media1.tenor.com/m/6TdEhZ0g3WQAAAAC/dog-doggo.gif](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRCgqE_hUBnFrHvPhkEG3EtBFHtsk3VNskRA&usqp=CAU)" alt="Girl in a jacket" width="491" height="481"> 
-</center>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/saiprakashsunk1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saiprakashsunk1" height="30" width="40" /></a>
