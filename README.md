@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Sai Prakash Sunkari</h1>
-<h3 align="center">👋 Hey there! I'm Sai Prakash Sunkari, a versatile developer skilled in HTML, CSS, JavaScript, ReactJS, Redux, Tailwind CSS, Node.js, Express.js, MongoDB, SQL, Spring Security, Spring Boot, C++, and Java. I'm passionate about crafting engaging web and mobile experiences. Let's build something awesome together! 🚀</h3>
+<h3 align="center">👋 Hey there! I'm Sai Prakash Sunkari, a versatile developer skilled in HTML, CSS, JavaScript, ReactJS, Redux, Tailwind CSS, Node.js, Express.js, MongoDB, MYSQL, Spring Security, Spring Boot, C++, and Java. I'm passionate about crafting engaging web and mobile experiences. Let's build something awesome together! 🚀</h3>
 
  <img  align ="right" src="https://media.licdn.com/dms/image/D4D12AQH4mcQALwgZ7Q/article-cover_image-shrink_600_2000/0/1691989932071?e=2147483647&v=beta&t=uwm5lxFiqURXuzG_xnf9hrIr-_sojSaQ4ggruUAYsmU" height="300" width="300" /> 
 
